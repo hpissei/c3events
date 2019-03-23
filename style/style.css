@@ -1,0 +1,154 @@
+body {
+    position: relative;
+  }
+
+  #section1 {
+    padding-top: 50px;
+    height: 100vh;
+    color: #fff;
+    background-color: #1E88E5;
+    width: 100%;
+    background-image: linear-gradient(
+  rgba(0, 0, 0, 0.5),
+  rgba(0, 0, 0, 0.5)
+),url("../images/back/back.jpg");
+    background-size: cover;
+    /* <------ */
+    background-repeat: no-repeat;
+    background-position: center center;
+    padding-top: 60px;
+    color: tan;
+    font-size: 18px;
+  }
+
+  #section2 {
+    padding-top: 50px;
+    height: 100vh;
+    color: #fff;
+    background-color: #673ab7;
+  }
+
+  #section3 {
+    padding-top: 50px;
+    height: 100vh;
+    color: #fff;
+    background-color: #ff9800;
+  }
+
+  #section4 {
+    padding-top: 50px;
+    height: 100vh;
+    color: #fff;
+    background-color: #00bcd4;
+  }
+
+  #section5 {
+    padding-top: 50px;
+    height: 100vh;
+    color: #fff;
+    background-color: #009688;
+  }
+
+
+  /*
+
+#section1,#section2,#section3
+{
+ padding-right: 0;
+ padding-left: 0;
+}
+#section1
+{
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-image: url(http://jthemes.org/html/harmony-event/assets/images/slider/slider-bg5.jpg);
+background-color: rgba(21,21,21,0.8);
+
+}
+
+#section2
+{
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-image: url(http://c3eventsmanagement.com/images/audience-band-bright-1047442.jpg);
+  background-color: rgba(21,21,21,0.8);
+}
+
+
+#section3
+{
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-image: url(http://c3eventsmanagement.com/images/aisle-beach-celebration-169198.jpg);
+  background-color: rgba(21,21,21,0.8);
+}*/
+  .text-center {
+    text-align: center !important;
+  }
+
+  body {
+    font-family: 'Montserrat', sans-serif;
+  }
+
+  .overlay-black {
+    background-color: rgba(21, 21, 21, 0.8) !important;
+  }
+
+  img {
+    color: rgba(21, 21, 21, 0.8) !important;
+    background-color: rgba(255, 0, 0, 0.5);
+    top: 0;
+    z-index: 0;
+    display: block;
+  }
+
+  .footer-section {
+    padding: 30px 0px;
+    text-align: center;
+    background-color: #151515;
+    margin-top: -10%;
+  }
+
+  .logo {
+    width: 200px;
+    height: 100px;
+    left: 40%;
+  }
+
+  .company,
+  .text-center {
+    text-align: center;
+    font-weight: bold;
+  }
+
+  .responsive-text {
+    font-size: 3vw;
+  }
+
+  
+  .responsive-text {
+    font-size: 3vw;
+  }
+
+  p.contact-text {
+    font-size: 18px;
+  }
+
+  p.contact-text-mobile {
+    font-size: 4.5vw;
+    text-overflow: hide;
+  }
+
+  .img-events-thumbnail{
+    width: 30vw !important;
+    height : 20vw !important
+  }
+;
+
+  .img-events-thumbnail-mobile{
+    width: 50vw !important;
+    height : 30vw !important;
+  }
