@@ -152,3 +152,36 @@ background-color: rgba(21,21,21,0.8);
     width: 50vw !important;
     height : 30vw !important;
   }
+
+  /* Map section*/
+#map-section{
+  padding-top: 50px;
+  height: 100vh;
+  color: #fff;
+  background-color: #00bcd4;
+}  
+
+.mapouter {
+  position: relative;
+  text-align: right;
+  height: 425px;
+  width: 100%;
+}
+
+.gmap_canvas {
+  overflow: hidden;
+  background: none !important;
+  height: 425px;
+  width: 100%;
+}
+
+a.hyperlink-decoration-none{
+  text-decoration: none;
+  color: #fff;
+}
+
+/* Copyright */
+.copyright_footer {
+  background-color: #080113;
+  padding: 15px;
+}
