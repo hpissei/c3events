@@ -185,3 +185,30 @@ a.hyperlink-decoration-none{
   background-color: #080113;
   padding: 15px;
 }
+
+footer {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 114px;
+}
+
+.icons{
+  width: 40px;
+  height: 40px;
+}
+
+.about-section {
+ /*background-color: floralwhite;*/
+}
+
+.about-section .contact-text-mobile{
+  /*color: black;*/
+  font-size: 14px;
+}
+
+.services-icons{
+  width: 100px;
+  height: 100px;
+}
